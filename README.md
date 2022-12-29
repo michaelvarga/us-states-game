@@ -1,0 +1,1 @@
+To play the game, press ctrl + r, and guess as many states as you can. It will generate a csv file of states that you need to study.
